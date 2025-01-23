@@ -1,5 +1,26 @@
-{"properties": [{
-  "name": "spring.mail.mail.smtp.starttls.enable",
-  "type": "java.lang.String",
-  "description": "A description for 'spring.mail.mail.smtp.starttls.enable'"
-}]}
+{"properties": [
+  {
+    "name": "spring.mail.mail.smtp.starttls.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mail.mail.smtp.starttls.enable'"
+  },
+  {
+    "name": "spring.mail.smtp.starttls.required",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mail.smtp.starttls.required'"
+  }
+]} "description": "A description for 'spring.mail.mail.smtp.starttls.enable'"
+  },
+  {
+    "name": "spring.mail.mail.smtp.starttls.required",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mail.mail.smtp.starttls.required'"
+  }
+]} "description": "A description for 'spring.mail.mail.smtp.starttls.enable'"
+  },
+  {
+    "name": "spring.mail.mail.smtp.starttls.required",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mail.mail.smtp.starttls.required'"
+  }
+]}

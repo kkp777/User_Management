@@ -1,5 +1,8 @@
 package in.kkpit.service;
 
-public interface DashboardService {
+import in.kkpit.dto.QuoteApiResponseDTO;
 
+public interface DashboardService {
+	public QuoteApiResponseDTO getQuote();
+	
 }
