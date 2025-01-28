@@ -12,6 +12,19 @@ public class UserDTO {
 	
 	
 	private String Pwd;
+	
+	private String pwd_Reset;
+
+
+
+	public String getPwd_Reset() {
+		return pwd_Reset;
+	}
+
+
+	public void setPwd_Reset(String pwd_Reset) {
+		this.pwd_Reset = pwd_Reset;
+	}
 
 
 	public Integer getUser_Id() {
